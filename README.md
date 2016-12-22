@@ -1,5 +1,8 @@
 ## SupercellProxy
 
+### NOTE
+This a fork of expl0itr's repo.
+
 A proxy en/decrypting..
 * ..Clash of Clans
 * ..Clash Royale
